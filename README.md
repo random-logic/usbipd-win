@@ -4,6 +4,9 @@ SPDX-FileCopyrightText: 2020 Frans van Dorsselaer
 SPDX-License-Identifier: GPL-3.0-only
 -->
 
+# Microsoft tutorial
+https://learn.microsoft.com/en-us/windows/wsl/connect-usb
+
 # usbipd-win
 
 [![Build](https://github.com/dorssel/usbipd-win/workflows/Build/badge.svg?branch=master)](https://github.com/dorssel/usbipd-win/actions?query=workflow%3ABuild+branch%3Amaster)
